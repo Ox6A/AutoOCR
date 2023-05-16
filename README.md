@@ -1,0 +1,2 @@
+# AutoOCR
+Small OCR project.
